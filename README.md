@@ -1,6 +1,6 @@
 # panda-login animado
 ### pagina animada de login panda, ao iniciar o preenchimento  nos campos email e senha o panda interage.
-### Ao carregar a pagina é emitido um script alert detalhando a interação
+#### Ao carregar a pagina é emitido um script alert detalhando a interação
 
 ### Autor: *Ranieri Jesuino*
 
